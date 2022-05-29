@@ -2,7 +2,6 @@
 
 controlos
 
-
 movimento- W, A, S, D,
 
 disparar- F
